@@ -19,7 +19,7 @@ A Scrapy project that scrapes car listings from Cars.com, specifically targeting
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/cars-scraper.git
+   git clone https://github.com/MUHAMMADZEE112233/TechDefendersAssessment.git
    cd cars-scraper
    pip install -r requirements.txt
    ```
